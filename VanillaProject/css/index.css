@@ -41,6 +41,12 @@ button:hover {
   cursor: pointer;
   opacity: 90%;
 }
+.fa-x {
+  color: var(--yellow);
+}
+.fa-o {
+  color: var(--turquoise);
+}
 
 /* Grid Styles*/
 .grid {
